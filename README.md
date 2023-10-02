@@ -5,6 +5,7 @@
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Logistic%20Regression-success)
 ![Big Data](https://img.shields.io/badge/Big%20Data-Apache%20Spark-success)
 ![Open Source Version](wc22screen.png)
+
 Welcome to the **Big Data Analytics and ML for World Cup 2022 Winner Prediction** project repository. This project aims to predict the winners of the FIFA World Cup 2022 using logistic regression and Apache-Spark in Databricks cloud. We utilize historical data from various sources to build and evaluate our predictive model.
 
 ## Overview
