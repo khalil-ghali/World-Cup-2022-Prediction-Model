@@ -39,16 +39,6 @@ Load the provided datasets (`WC22.csv`, `FIFA_rankings.csv`, and `all_soccer_gam
 ## Run the Code
 Follow the instructions in the notebooks to run the code and explore the prediction results.
 
-## Usage
-
-This project is divided into several Jupyter notebooks that guide you through different stages of the analysis and prediction process. Here's a brief overview of the notebooks:
-
-- **01_Data_Preparation.ipynb**: This notebook covers data cleaning, preprocessing, and feature engineering.
-- **02_Model_Training.ipynb**: Here, we train our logistic regression model using historical data.
-- **03_Model_Evaluation.ipynb**: Evaluate the model's performance and analyze the results.
-- **04_World_Cup_Prediction.ipynb**: Use the trained model to predict World Cup 2022 match outcomes.
-
-Feel free to explore these notebooks to gain insights into our analysis and prediction methods.
 
 ## Contributing
 
